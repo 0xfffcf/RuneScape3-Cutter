@@ -1,4 +1,4 @@
-<h1 align="center">Dunker</h1>
+<h1 align="center">Cutter</h1>
 
 <p align='center'>
     <b>💀 Cheat for Runescape3 written in Java for Kraken 💀</b>
